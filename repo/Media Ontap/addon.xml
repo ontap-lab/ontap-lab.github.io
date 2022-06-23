@@ -6,6 +6,11 @@
             <checksum>https://raw.githubusercontent.com/ontap-lab/ontap-lab.github.io/main/repo/zips/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/ontap-lab/ontap-lab.github.io/main/repo/zips/</datadir>
         </dir>
+        <dir minversion="19.0.0">
+    <info compressed="false">https://raw.githubusercontent.com/ontap-lab/ontap-lab.github.io/main/matrix/zips/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/ontap-lab/ontap-lab.github.io/main/matrix/zips/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/ontap-lab/ontap-lab.github.io/main/matrix/zips/</datadir>
+</dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>ontap-lab.github.io</summary>
